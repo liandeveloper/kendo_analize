@@ -1,0 +1,434 @@
+[
+    {
+      "name": "J. BRETOUT",
+      "country": "PRA",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "A. MOLOWEY",
+      "country": "IRL",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "T. KARNADI",
+      "country": "NEO",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "C. URANO",
+      "country": "BRA",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "T. PAROURIC",
+      "country": "CRO",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "G. ROZAKI",
+      "country": "GRE",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "F. YABEIA",
+      "country": "BOJ",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "R. EDWARDSON",
+      "country": "GRE",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "V. MILOJIBYIC",
+      "country": "SIS",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "M. ARBECUI",
+      "country": "ESP",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "A. STUPU",
+      "country": "ROM",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "A. DUBI",
+      "country": "HUN",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "J. TB WHARAU",
+      "country": "NZL",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "C. PASSICOT",
+      "country": "ARC",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "R. ALTILLA",
+      "country": "CAN",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "T. AMISHIDO",
+      "country": "JPW",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "T. YANG",
+      "country": "AHS",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "H. VALJA",
+      "country": "FIN",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "T. BOANG",
+      "country": "CAN",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "L. TURNOVIST",
+      "country": "AUT",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "G. AMKOLADZE",
+      "country": "LTO",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "B. TERCI LOGIJ",
+      "country": "TUR",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "J. CLIRE",
+      "country": "CZS",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "M. JANG",
+      "country": "MOR",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "M. PRICE",
+      "country": "RS",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "P. KAPNTJIS",
+      "country": "GRE",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "F. SCARAMELLINI",
+      "country": "ARG",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "Y. ROTHACHEN",
+      "country": "SUI",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "M. UVIPSCU",
+      "country": "RON",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "T. MIRANDA",
+      "country": "CHI",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "R. ARAÚJO",
+      "country": "POR",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "G. CHAN",
+      "country": "SIN",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "K. CHAN",
+      "country": "MAS",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "L. SENG",
+      "country": "MCO",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "D. STOJANOVIC",
+      "country": "MWE",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "S. GIBBSON",
+      "country": "GBR",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "L. MA",
+      "country": "CBN",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "K. BOGAK",
+      "country": "POL",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "S. CORIN",
+      "country": "PRA",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "R. TOREVALU",
+      "country": "GOG",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "M. MIKITOVIC",
+      "country": "ANG",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "B. TEBIDA",
+      "country": "AIS",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "S. DOMANCIC",
+      "country": "GIH",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "J. BREMBER",
+      "country": "PIN",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "T. KONSTANTINOS",
+      "country": "GRE",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "G. MATSUMATO",
+      "country": "HHT",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "J. GALLART",
+      "country": "ESP",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "J. OGLE",
+      "country": "GBR",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "P. GARCIA",
+      "country": "DOM",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "K. MARMOTO",
+      "country": "BEL",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "R. CASQUERIO",
+      "country": "POR",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "C. YANG",
+      "country": "USA",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "C. LBE",
+      "country": "HKG",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "M. JELLICIC",
+      "country": "SRB",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "G. SEPTOREN",
+      "country": "HPH",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "G. MATSUMATASHI",
+      "country": "HHT",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "P. D. HONT",
+      "country": "BEL",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "T. LEENANN",
+      "country": "GER",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "K. NAKABAYASHI",
+      "country": "PRA",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "V. MURADIAN",
+      "country": "RIS",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "R. BAN",
+      "country": "CRO",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "L. CAHILL",
+      "country": "IRL",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "P. PATIHO",
+      "country": "CHI",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "K. FREDINEIM",
+      "country": "NOR",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "C. FLORES",
+      "country": "MEX",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "B. BROWETT",
+      "country": "NZL",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "R. WATANABB",
+      "country": "SHE",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "M. WU",
+      "country": "TPR",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "P. VOLORARSKI",
+      "country": "ISR",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "J. FITZEGRALIO",
+      "country": "GGR",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "A. VERSANOVIC",
+      "country": "SRB",
+      "gender": "male",
+      "year": "2018"
+    },
+    {
+      "name": "H. CHENG VAI",
+      "country": "MCO",
+      "gender": "male",
+      "year": "2018"
+    }
+]

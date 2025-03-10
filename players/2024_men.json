@@ -1,0 +1,385 @@
+[
+    {
+      "name": "L. SAA",
+      "country": "CHI",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "K. KUROGI",
+      "country": "BEL",  
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "S. MIYASHITA",
+      "country": "CAN",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "H. HÄRTL",
+      "country": "AUT",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "A. KISHIKARA",
+      "country": "AUS",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "M. MACTULIVICIUS",
+      "country": "LTU",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "M. ANDRIJASEVIC",
+      "country": "MNE",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "P. GARCIA",
+      "country": "MEX",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "L. PRZEMLOCKI",
+      "country": "FRA",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "M. SHII",
+      "country": "THA",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "D. NAM",
+      "country": "USA",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "N. ALTANGEREI",
+      "country": "MGL", 
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "J. JEONG",
+      "country": "KOR",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "K. MAISIZAKI",
+      "country": "JPN",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "M. REMUEL",
+      "country": "GER",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "P. MARQUES",
+      "country": "POR",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "K. NAKABAYASHI",
+      "country": "FRA",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "C. LIU",
+      "country": "TPE",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "I. AVETISOV",
+      "country": "UKR",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "A. FUKAMIZU",
+      "country": "BRA",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "K. VAN LAGENEN",
+      "country": "BEL",  
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "A. VUCINIC",
+      "country": "MNE",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "X. FU",
+      "country": "CHN",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "K. RUKAS",
+      "country": "GBR",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "I. KAPLAN",
+      "country": "ISR",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "K. KIMURA",
+      "country": "JPN",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "G. HAMBURGER",
+      "country": "NED",  
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "J. DE CISMEROS",
+      "country": "MEX",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "J. DOHERTY",
+      "country": "IRL", 
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "G. KIM",
+      "country": "KOR",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "A. STEELE",
+      "country": "USA",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "N. TEPAVCEVIC",
+      "country": "SRB",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "K. MAEMOTO",
+      "country": "JPN",  
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "M. ERNST",
+      "country": "GER",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "S. HWANG",
+      "country": "KOR",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "J. WRIGHT",
+      "country": "GBR",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "A. TAKAYAMA",
+      "country": "BRA",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "B. WANG",
+      "country": "USA",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "K. LORENC",
+      "country": "POL",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "L. ILIC",
+      "country": "SRB",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "K. NIBU-JONES",
+      "country": "AUS",  
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "R. NIEUVENMUIJZEN",
+      "country": "NED",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "M. IVANOVSKI",
+      "country": "MKD",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "E. HERNANDEZ",
+      "country": "COL",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "M. ARFERT",
+      "country": "SRB",  
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "S. OHIRA",
+      "country": "JPN",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "W. OLIVIER",
+      "country": "FRA",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "L. LEE",
+      "country": "MAS",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "J. WILLIAMS",
+      "country": "USA",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "M. KACZOR",
+      "country": "POL",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "P. JENSEN",
+      "country": "DEN",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "C. PATRON",
+      "country": "PER",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "L. GUADARRANA",
+      "country": "FRA",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "G. ANKOLADZE",
+      "country": "LTU",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "S. NICHOLS",
+      "country": "CAN",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "S. STRANDELL",
+      "country": "SRB",  
+      "year": "2024"
+    },
+    {
+      "name": "W. ZHUU",
+      "country": "CHN",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "T. KIMURA",
+      "country": "SUI",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "B. FUNUTOMI",
+      "country": "HKG",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "E. MAYZELLA",
+      "country": "ITA",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "M. Van der WOUDE",
+      "country": "NED",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "B. KNON",
+      "country": "KOR",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "K. HOSHIKO",
+      "country": "JPN",
+      "gender": "male",
+      "year": "2024"
+    },
+    {
+      "name": "C. TAKAYAMA",
+      "country": "BRA",
+      "gender": "male",
+      "year": "2024"
+    }
+]

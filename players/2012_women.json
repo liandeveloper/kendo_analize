@@ -1,0 +1,266 @@
+[
+    {
+      "name": "E. BUNCH-MAYER",
+      "country": "GBM",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "S. LITULLIS",
+      "country": "NZL",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "M. ARTRUJI",
+      "country": "JPM",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "M. ARTRUJI",
+      "country": "NSS",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "T. LINAI",
+      "country": "XMA",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "N. JELICIC",
+      "country": "SDR",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "D. MASTIMEZ",
+      "country": "MCX",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "M. ARMA",
+      "country": "BS",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "J. CILUVIA",
+      "country": "CZZ",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "T. LING",
+      "country": "HK",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "E. VAMPINSKI",
+      "country": "FT",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "T. DELAGE",
+      "country": "GND",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "E. FITTIPOSHI",
+      "country": "FT",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "A. CAVAN",
+      "country": "NZL",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "C.LUD",
+      "country": "TF",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "A. CASSUIT",
+      "country": "IRL",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "E. TAKSATURE",
+      "country": "BRA",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "L. BELLIVIER",
+      "country": "SUL",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "Y. MG",
+      "country": "WOJ",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "R. CERN",
+      "country": "HK",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "L. FOUGAZ",
+      "country": "SYR",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "P. STOLAZZ",
+      "country": "PAL",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "M. MISTAN",
+      "country": "SWL",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "R. JROM",
+      "country": "WX",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "R. HENS",
+      "country": "HK",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "D. YOKOO",
+      "country": "GQ",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "L. ZUMO",
+      "country": "GQ",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "E. STUPSFIRE",
+      "country": "AUS",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "T. LEE",
+      "country": "MSS",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "E. SUZUKI",
+      "country": "SUZ",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "E. HEADWYTH",
+      "country": "SDE",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "L. GENN",
+      "country": "TF",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "S. DIENNESE",
+      "country": "ATN",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "A.NORMANO-SANE'",
+      "country": "AUS",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "D. ELNOON",
+      "country": "YR",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "A.NOMILOVICO",
+      "country": "SRR",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "A. FAMIGLOTO",
+      "country": "KU",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "Y. ILAUSTIRNO",
+      "country": "LIU",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "F. LINGERICH",
+      "country": "SPE",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "A. GLAUBE",
+      "country": "SUL",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "P. HOPOCZA",
+      "country": "GIL",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "S. WONG",
+      "country": "SID",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "Z. TALLIS",
+      "country": "HEN",
+      "gender": "female",
+      "year": "2012"
+    },
+    {
+      "name": "N. YOSHIDA",
+      "country": "HPT",
+      "gender": "female",
+      "year": "2012"
+    }
+]
